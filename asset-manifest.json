@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ReactTask1/static/css/main.bb8ebdb8.css",
+    "main.js": "/ReactTask1/static/js/main.b9c4be0b.js",
+    "static/js/453.e08103a1.chunk.js": "/ReactTask1/static/js/453.e08103a1.chunk.js",
+    "static/media/Group.png": "/ReactTask1/static/media/Group.43f8e6694669372cf4dd.png",
+    "static/media/undraw_social_influencer_sgsv.png": "/ReactTask1/static/media/undraw_social_influencer_sgsv.79ed2b4f1cc20d8a865c.png",
+    "static/media/undraw_mention_6k5d.png": "/ReactTask1/static/media/undraw_mention_6k5d.5725d73c8be94c3d80ed.png",
+    "static/media/undraw_happy_news_hxmt.png": "/ReactTask1/static/media/undraw_happy_news_hxmt.553d3cd5970f985380b1.png",
+    "static/media/undraw_mobile_login_ikmv.png": "/ReactTask1/static/media/undraw_mobile_login_ikmv.dd5e68510e135c156fc4.png",
+    "index.html": "/ReactTask1/index.html",
+    "main.bb8ebdb8.css.map": "/ReactTask1/static/css/main.bb8ebdb8.css.map",
+    "main.b9c4be0b.js.map": "/ReactTask1/static/js/main.b9c4be0b.js.map",
+    "453.e08103a1.chunk.js.map": "/ReactTask1/static/js/453.e08103a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb8ebdb8.css",
+    "static/js/main.b9c4be0b.js"
+  ]
+}
