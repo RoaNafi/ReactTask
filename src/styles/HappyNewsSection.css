@@ -1,0 +1,46 @@
+.feature-section {
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Roboto', sans-serif;
+    margin: 10% 10% 20% 10%;
+    background-color: #ffffff;
+    
+  }
+  
+  .feature-content {
+    max-width: 40%;
+    font-size: 12px;
+    color: #7F8C8D;
+  }
+  
+  .feature-content p {
+    width: 90%;
+  }
+
+  .feature-content h2 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #091133;
+    font-weight: normal;
+  }
+ 
+  
+  .feature-image{
+    width: 100%;
+    max-width: 50%;
+    height: auto;
+  }
+
+  .mention-image{
+    width: 80%;
+  }
+
+  .Purchase-Now{
+    width: 150px;
+    height: 32px;
+    gap: 0px;
+    opacity: 0px;
+    background: #111B47;
+    color: #ffffff;
+  }

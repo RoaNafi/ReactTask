@@ -1,0 +1,38 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2px 60px;
+  background-color: #fff;
+  font-family: 'Roboto', sans-serif;
+}
+
+.header .logo {
+  font-size: 26px;
+  font-weight: bold;
+  color: #37447E;
+  font: Roboto;
+}
+
+.header nav ul {
+  display: flex;
+  list-style: none;
+}
+
+.header nav ul li {
+  margin: 0 15px;
+}
+
+.header nav ul li a {
+  text-decoration: none;
+  color: #505F98;
+}
+
+.header .buy-now {
+  width: 160px;
+  height: 26px;
+  background-color: #111B47;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
