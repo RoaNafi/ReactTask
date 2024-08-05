@@ -25,11 +25,11 @@
 .pricing-content {
   position: relative;
   z-index: 1;
-  max-width: 800px; /* Ensure the content doesn't stretch too wide */
-  margin: 0 auto; /* Center the content horizontally */
+  max-width: 800px; 
+  margin: 0 auto;
   padding: 20px;
   border-radius: 10px;
-  opacity: 1; /* Ensure content has full opacity */
+  opacity: 1; 
 }
 
 .pricing-content h2 {
