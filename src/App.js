@@ -18,6 +18,7 @@ function App() {
       <MentionSection/>
       <PricingSection/>
       <Footer/>
+      <Footer/>
     </div>
   );
 }
